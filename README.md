@@ -1,5 +1,6 @@
 # Python
 ## A small and perhaps growing, aging or rapidly depecating Little Black Book of Secrets
+![Little Black Book](images/little_black_book.png)
 
 We've all done it - consulted the Root of All Knowledge (aka "Google") and long since forgotten the results. 
 Do you find yourself searching for the same things repeatedly? I sure do. 
