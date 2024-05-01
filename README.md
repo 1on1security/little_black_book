@@ -1,4 +1,4 @@
-# Python
+# Little Black Book
 ![Little Black Book](images/little_black_book.png)
 ## A small and perhaps growing, aging or rapidly depecating Little Black Book of Secrets
 
