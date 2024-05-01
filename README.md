@@ -1,6 +1,6 @@
 # Little Black Book
 ![Little Black Book](images/little_black_book.png)
-## A small and perhaps growing, aging or rapidly deprecating Little Black Book of Secrets
+## A small and perhaps growing, aging or rapidly deprecating Little Black Book of Spells
 
 We've all done it - consulted the Root of All Knowledge (aka "Google") and long since forgotten the results. 
 Do you find yourself searching for the same things repeatedly? I sure do. 
