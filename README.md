@@ -26,6 +26,10 @@ GRUB_CMDLINE_LINUX="ipv6.disable=1"<br>
 `sudo update-grub`<br>
 `sudo reboot`<br>
 
+## Ubuntu 22.04 LTS disable systemd-resolved
+sudo systemctl disable systemd-resolved
+sudo systemctl stop systemd-resolved
+
 ## Ansible Crib Notes
 `ansible-inventory -i inventory.yaml --list`<br>
 `ansible myhosts -m ping -i inventory.ini`<br>
