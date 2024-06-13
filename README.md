@@ -39,6 +39,8 @@ GRUB_CMDLINE_LINUX="ipv6.disable=1"<br>
 `ansible-inventory -i inventory.yaml --list`<br>
 `ansible myhosts -m ping -i inventory.ini`<br>
 `ansible-playbook -i inventory.yaml playbook.yaml`
+`ansible-playbook -i inventory.yaml playbook.yaml --check`  same, but a dry run. 
+
 
 ## Random
 - Revive Stale Bread: 
